@@ -1,0 +1,4 @@
+git add/stage "Filename": this command prepares files for committing so they can be staged
+git push/pull: This command either updates remote repositories from local files or vice-versa
+git commit -m "Message": this command creates a snapshot of the current state of the repo
+git clone: Clones a repository into a newly created directory
